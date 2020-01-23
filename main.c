@@ -5,7 +5,7 @@ Initial Function()
   //Sample Code
 }
 
-Initial Security()
+feature2()
 {
  //Sample Code
 }
